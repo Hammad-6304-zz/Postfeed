@@ -1,0 +1,32 @@
+.post-container {
+  background-color: #272727;
+  padding: 10px 15px;
+  border-radius: 8px;
+  margin: 15px 0px;
+}
+.article-body {
+  font-size: 20px;
+  line-height: 2rem;
+
+  margin-bottom: 20px;
+}
+
+.divider {
+  height: 1px;
+  border-bottom: 1px solid grey;
+  margin: 10px 0px;
+}
+
+.info-con {
+  margin: 5px 5px;
+}
+.info-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px;
+}
+.info-value {
+  color: #80bd10;
+  font-size: 18px;
+  margin: 10px;
+}

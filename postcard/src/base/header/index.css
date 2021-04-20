@@ -1,0 +1,15 @@
+.top-bar {
+  height: 56px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #272727;
+}
+.heading {
+  font-weight: bold;
+  font-size: 28px;
+}
